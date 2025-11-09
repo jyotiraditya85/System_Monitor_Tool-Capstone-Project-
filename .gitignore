@@ -1,0 +1,23 @@
+# Build artefacts
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+
+# Exports / runtime output
+*.csv
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editors/IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Crash dumps
+*.dmp
